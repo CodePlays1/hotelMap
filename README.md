@@ -5,4 +5,4 @@ This is a modern hotel reservation system built with **React.js** and **React Le
 ## Preview 📸
 Here’s what the project looks like:  
 
-![Hotel Reservation Preview](./screenshots/screenshot.png)(./screenshots/screenshot1.png)
+![Hotel Reservation Preview](/screenshots/screenshot.png)(./screenshots/screenshot1.png)
