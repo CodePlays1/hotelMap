@@ -9,13 +9,13 @@ Users can explore hotels on a map, check availability, and make reservations eff
 - React Leaflet  
 
 ## 🔧 Installation  
-1. **Clone the repository:**  
+ **Clone the repository:**  ,
    git clone https://github.com/CodePlays1/hotelMap
 Navigate to the project directory:
 cd hotelMap
-Install the dependencies:
+Install the dependencies:,
 npm install
-Start the development server:
+Start the development server:,
 npm run dev
 📸 Preview
 Check out a sample of the project in the screenshots folder.
