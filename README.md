@@ -11,7 +11,7 @@ Users can explore hotels on a map, check availability, and make reservations eff
 ## 🔧 Installation  
  **Clone the repository:**  ,
    git clone https://github.com/CodePlays1/hotelMap
-Navigate to the project directory:
+Navigate to the project directory: 
 cd hotelMap
 Install the dependencies:,
 npm install
